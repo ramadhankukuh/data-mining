@@ -90,8 +90,8 @@ Catatan: kode lama dari materi asli sudah disesuaikan agar berjalan di versi lib
 
 ## Penulis
 
-- Nama: _(isi nama lengkap)_
-- NIM: _(isi NIM)_
+- Nama: _Kukuh Ramadhan Prastiyo_
+- NIM: _A11.2024.15680_
 - Program Studi: Informatika, Universitas Dian Nuswantoro
 - GitHub: [@ramadhankukuh](https://github.com/ramadhankukuh)
 
